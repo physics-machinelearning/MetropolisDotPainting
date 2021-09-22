@@ -8,7 +8,7 @@ This program uses the Metropolis algorithm to convert a photo into a pixel art.
 # Get started
 - pip install pipenv
 - pipenv install
-- pipenv run python metropolisdotpainting.py 
+- pipenv run python main.py 
 
 
 # iOS app promotion
